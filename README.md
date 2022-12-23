@@ -7,4 +7,4 @@ This is a completed hybrid mobile application for a basic chat use case. I have 
 2. Keyboard: used in the conversation page
 3. Vibration: used on the send message button/icon.
 
-Also, I have desined a splash screen natively and added it at the application startup screen (hardcoded the duration to 3s). All the data seen in the application are static and are populated from the respective html files.
+Also, I have designed a splash screen natively and added it at the application startup screen (hardcoded the duration to 3s). All the data seen in the application are static and are populated from the respective html files.
