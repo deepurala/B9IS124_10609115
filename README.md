@@ -1,6 +1,6 @@
 # Pradeep Nagendra Urala (10609115)
 
-### B9IS124_CA2
+### B9IS124_10609115_CA2
 
 This is a completed hybrid mobile application for a basic chat use case. I have used the ionic platform to build this application. I have basically used 3 plugins here and explained as follows:
 1. Screen Orientation
